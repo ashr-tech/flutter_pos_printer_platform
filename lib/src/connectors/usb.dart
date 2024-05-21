@@ -124,7 +124,7 @@ class UsbPrinterConnector implements PrinterConnector<UsbPrinterInput> {
       for (final device in results) {
         var r = await device;
         yield PrinterDevice(
-          name: r['product'],
+          name: r['product'] == null ? 'Default Printer' : r['product'],
           vendorId: r['vendorId'],
           productId: r['productId'],
           // name: r['name'],
