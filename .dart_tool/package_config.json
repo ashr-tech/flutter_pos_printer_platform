@@ -3,277 +3,283 @@
   "packages": [
     {
       "name": "archive",
-      "rootUri": "file:///home/yasfdany/.pub-cache/hosted/pub.dev/archive-3.4.4",
+      "rootUri": "file:///C:/Users/elriz/AppData/Local/Pub/Cache/hosted/pub.dev/archive-4.0.7",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "3.0"
     },
     {
       "name": "args",
-      "rootUri": "file:///home/yasfdany/.pub-cache/hosted/pub.dev/args-2.4.2",
+      "rootUri": "file:///C:/Users/elriz/AppData/Local/Pub/Cache/hosted/pub.dev/args-2.4.2",
       "packageUri": "lib/",
       "languageVersion": "2.19"
     },
     {
       "name": "async",
-      "rootUri": "file:///home/yasfdany/.pub-cache/hosted/pub.dev/async-2.11.0",
+      "rootUri": "file:///C:/Users/elriz/AppData/Local/Pub/Cache/hosted/pub.dev/async-2.13.0",
       "packageUri": "lib/",
-      "languageVersion": "2.18"
+      "languageVersion": "3.4"
     },
     {
       "name": "boolean_selector",
-      "rootUri": "file:///home/yasfdany/.pub-cache/hosted/pub.dev/boolean_selector-2.1.1",
+      "rootUri": "file:///C:/Users/elriz/AppData/Local/Pub/Cache/hosted/pub.dev/boolean_selector-2.1.2",
       "packageUri": "lib/",
-      "languageVersion": "2.17"
+      "languageVersion": "3.1"
     },
     {
       "name": "characters",
-      "rootUri": "file:///home/yasfdany/.pub-cache/hosted/pub.dev/characters-1.3.0",
+      "rootUri": "file:///C:/Users/elriz/AppData/Local/Pub/Cache/hosted/pub.dev/characters-1.4.0",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "3.4"
     },
     {
       "name": "clock",
-      "rootUri": "file:///home/yasfdany/.pub-cache/hosted/pub.dev/clock-1.1.1",
+      "rootUri": "file:///C:/Users/elriz/AppData/Local/Pub/Cache/hosted/pub.dev/clock-1.1.2",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "3.4"
     },
     {
       "name": "collection",
-      "rootUri": "file:///home/yasfdany/.pub-cache/hosted/pub.dev/collection-1.17.2",
+      "rootUri": "file:///C:/Users/elriz/AppData/Local/Pub/Cache/hosted/pub.dev/collection-1.19.1",
       "packageUri": "lib/",
-      "languageVersion": "2.18"
-    },
-    {
-      "name": "convert",
-      "rootUri": "file:///home/yasfdany/.pub-cache/hosted/pub.dev/convert-3.1.1",
-      "packageUri": "lib/",
-      "languageVersion": "2.18"
+      "languageVersion": "3.4"
     },
     {
       "name": "crypto",
-      "rootUri": "file:///home/yasfdany/.pub-cache/hosted/pub.dev/crypto-3.0.3",
+      "rootUri": "file:///C:/Users/elriz/AppData/Local/Pub/Cache/hosted/pub.dev/crypto-3.0.3",
       "packageUri": "lib/",
       "languageVersion": "2.19"
     },
     {
       "name": "dbus",
-      "rootUri": "file:///home/yasfdany/.pub-cache/hosted/pub.dev/dbus-0.7.8",
+      "rootUri": "file:///C:/Users/elriz/AppData/Local/Pub/Cache/hosted/pub.dev/dbus-0.7.8",
       "packageUri": "lib/",
       "languageVersion": "2.15"
     },
     {
       "name": "enum_to_string",
-      "rootUri": "file:///home/yasfdany/.pub-cache/hosted/pub.dev/enum_to_string-2.0.1",
+      "rootUri": "file:///C:/Users/elriz/AppData/Local/Pub/Cache/hosted/pub.dev/enum_to_string-2.0.1",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "fake_async",
-      "rootUri": "file:///home/yasfdany/.pub-cache/hosted/pub.dev/fake_async-1.3.1",
+      "rootUri": "file:///C:/Users/elriz/AppData/Local/Pub/Cache/hosted/pub.dev/fake_async-1.3.3",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "3.3"
     },
     {
       "name": "ffi",
-      "rootUri": "file:///home/yasfdany/.pub-cache/hosted/pub.dev/ffi-2.1.0",
+      "rootUri": "file:///C:/Users/elriz/AppData/Local/Pub/Cache/hosted/pub.dev/ffi-2.1.0",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
     {
       "name": "flutter",
-      "rootUri": "file:///home/yasfdany/Documents/flutter/packages/flutter",
+      "rootUri": "file:///D:/Softwares/Developments/flutter/packages/flutter",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "3.7"
     },
     {
       "name": "flutter_star_prnt",
-      "rootUri": "file:///home/yasfdany/.pub-cache/hosted/pub.dev/flutter_star_prnt-2.4.1",
+      "rootUri": "file:///C:/Users/elriz/AppData/Local/Pub/Cache/git/flutter_star_prnt-3adccaef99ea00b0229b57a7efdd01112180571e/",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "flutter_test",
-      "rootUri": "file:///home/yasfdany/Documents/flutter/packages/flutter_test",
+      "rootUri": "file:///D:/Softwares/Developments/flutter/packages/flutter_test",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "3.7"
     },
     {
       "name": "flutter_web_plugins",
-      "rootUri": "file:///home/yasfdany/Documents/flutter/packages/flutter_web_plugins",
+      "rootUri": "file:///D:/Softwares/Developments/flutter/packages/flutter_web_plugins",
+      "packageUri": "lib/",
+      "languageVersion": "3.7"
+    },
+    {
+      "name": "image",
+      "rootUri": "file:///C:/Users/elriz/AppData/Local/Pub/Cache/hosted/pub.dev/image-4.5.4",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
     {
-      "name": "image",
-      "rootUri": "file:///home/yasfdany/.pub-cache/hosted/pub.dev/image-3.3.0",
+      "name": "leak_tracker",
+      "rootUri": "file:///C:/Users/elriz/AppData/Local/Pub/Cache/hosted/pub.dev/leak_tracker-10.0.9",
       "packageUri": "lib/",
-      "languageVersion": "2.15"
+      "languageVersion": "3.2"
     },
     {
-      "name": "js",
-      "rootUri": "file:///home/yasfdany/.pub-cache/hosted/pub.dev/js-0.6.7",
+      "name": "leak_tracker_flutter_testing",
+      "rootUri": "file:///C:/Users/elriz/AppData/Local/Pub/Cache/hosted/pub.dev/leak_tracker_flutter_testing-3.0.9",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "leak_tracker_testing",
+      "rootUri": "file:///C:/Users/elriz/AppData/Local/Pub/Cache/hosted/pub.dev/leak_tracker_testing-3.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
     },
     {
       "name": "matcher",
-      "rootUri": "file:///home/yasfdany/.pub-cache/hosted/pub.dev/matcher-0.12.16",
+      "rootUri": "file:///C:/Users/elriz/AppData/Local/Pub/Cache/hosted/pub.dev/matcher-0.12.17",
       "packageUri": "lib/",
-      "languageVersion": "2.18"
+      "languageVersion": "3.4"
     },
     {
       "name": "material_color_utilities",
-      "rootUri": "file:///home/yasfdany/.pub-cache/hosted/pub.dev/material_color_utilities-0.5.0",
+      "rootUri": "file:///C:/Users/elriz/AppData/Local/Pub/Cache/hosted/pub.dev/material_color_utilities-0.11.1",
       "packageUri": "lib/",
       "languageVersion": "2.17"
     },
     {
       "name": "meta",
-      "rootUri": "file:///home/yasfdany/.pub-cache/hosted/pub.dev/meta-1.9.1",
+      "rootUri": "file:///C:/Users/elriz/AppData/Local/Pub/Cache/hosted/pub.dev/meta-1.16.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "network_info_plus",
-      "rootUri": "file:///home/yasfdany/.pub-cache/hosted/pub.dev/network_info_plus-2.3.2",
+      "rootUri": "file:///C:/Users/elriz/AppData/Local/Pub/Cache/hosted/pub.dev/network_info_plus-2.3.2",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "network_info_plus_linux",
-      "rootUri": "file:///home/yasfdany/.pub-cache/hosted/pub.dev/network_info_plus_linux-1.1.2",
+      "rootUri": "file:///C:/Users/elriz/AppData/Local/Pub/Cache/hosted/pub.dev/network_info_plus_linux-1.1.2",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "network_info_plus_macos",
-      "rootUri": "file:///home/yasfdany/.pub-cache/hosted/pub.dev/network_info_plus_macos-1.3.0",
+      "rootUri": "file:///C:/Users/elriz/AppData/Local/Pub/Cache/hosted/pub.dev/network_info_plus_macos-1.3.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "network_info_plus_platform_interface",
-      "rootUri": "file:///home/yasfdany/.pub-cache/hosted/pub.dev/network_info_plus_platform_interface-1.1.3",
+      "rootUri": "file:///C:/Users/elriz/AppData/Local/Pub/Cache/hosted/pub.dev/network_info_plus_platform_interface-1.1.3",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "network_info_plus_web",
-      "rootUri": "file:///home/yasfdany/.pub-cache/hosted/pub.dev/network_info_plus_web-1.0.1",
+      "rootUri": "file:///C:/Users/elriz/AppData/Local/Pub/Cache/hosted/pub.dev/network_info_plus_web-1.0.1",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "network_info_plus_windows",
-      "rootUri": "file:///home/yasfdany/.pub-cache/hosted/pub.dev/network_info_plus_windows-1.0.2",
+      "rootUri": "file:///C:/Users/elriz/AppData/Local/Pub/Cache/hosted/pub.dev/network_info_plus_windows-1.0.2",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "nm",
-      "rootUri": "file:///home/yasfdany/.pub-cache/hosted/pub.dev/nm-0.5.0",
+      "rootUri": "file:///C:/Users/elriz/AppData/Local/Pub/Cache/hosted/pub.dev/nm-0.5.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "path",
-      "rootUri": "file:///home/yasfdany/.pub-cache/hosted/pub.dev/path-1.8.3",
+      "rootUri": "file:///C:/Users/elriz/AppData/Local/Pub/Cache/hosted/pub.dev/path-1.9.1",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "3.4"
     },
     {
       "name": "petitparser",
-      "rootUri": "file:///home/yasfdany/.pub-cache/hosted/pub.dev/petitparser-5.4.0",
+      "rootUri": "file:///C:/Users/elriz/AppData/Local/Pub/Cache/hosted/pub.dev/petitparser-5.4.0",
       "packageUri": "lib/",
       "languageVersion": "2.19"
     },
     {
       "name": "ping_discover_network_forked",
-      "rootUri": "file:///home/yasfdany/.pub-cache/hosted/pub.dev/ping_discover_network_forked-0.0.1",
+      "rootUri": "file:///C:/Users/elriz/AppData/Local/Pub/Cache/hosted/pub.dev/ping_discover_network_forked-0.0.1",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "plugin_platform_interface",
-      "rootUri": "file:///home/yasfdany/.pub-cache/hosted/pub.dev/plugin_platform_interface-2.1.6",
+      "rootUri": "file:///C:/Users/elriz/AppData/Local/Pub/Cache/hosted/pub.dev/plugin_platform_interface-2.1.6",
       "packageUri": "lib/",
       "languageVersion": "2.19"
     },
     {
-      "name": "pointycastle",
-      "rootUri": "file:///home/yasfdany/.pub-cache/hosted/pub.dev/pointycastle-3.7.3",
+      "name": "posix",
+      "rootUri": "file:///C:/Users/elriz/AppData/Local/Pub/Cache/hosted/pub.dev/posix-6.0.3",
       "packageUri": "lib/",
-      "languageVersion": "2.14"
+      "languageVersion": "3.0"
     },
     {
       "name": "rxdart",
-      "rootUri": "file:///home/yasfdany/.pub-cache/hosted/pub.dev/rxdart-0.27.7",
+      "rootUri": "file:///C:/Users/elriz/AppData/Local/Pub/Cache/hosted/pub.dev/rxdart-0.27.7",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "sky_engine",
-      "rootUri": "file:///home/yasfdany/Documents/flutter/bin/cache/pkg/sky_engine",
+      "rootUri": "file:///D:/Softwares/Developments/flutter/bin/cache/pkg/sky_engine",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "3.7"
     },
     {
       "name": "source_span",
-      "rootUri": "file:///home/yasfdany/.pub-cache/hosted/pub.dev/source_span-1.10.0",
+      "rootUri": "file:///C:/Users/elriz/AppData/Local/Pub/Cache/hosted/pub.dev/source_span-1.10.1",
       "packageUri": "lib/",
-      "languageVersion": "2.18"
+      "languageVersion": "3.1"
     },
     {
       "name": "stack_trace",
-      "rootUri": "file:///home/yasfdany/.pub-cache/hosted/pub.dev/stack_trace-1.11.0",
+      "rootUri": "file:///C:/Users/elriz/AppData/Local/Pub/Cache/hosted/pub.dev/stack_trace-1.12.1",
       "packageUri": "lib/",
-      "languageVersion": "2.18"
+      "languageVersion": "3.4"
     },
     {
       "name": "stream_channel",
-      "rootUri": "file:///home/yasfdany/.pub-cache/hosted/pub.dev/stream_channel-2.1.1",
+      "rootUri": "file:///C:/Users/elriz/AppData/Local/Pub/Cache/hosted/pub.dev/stream_channel-2.1.4",
       "packageUri": "lib/",
-      "languageVersion": "2.14"
+      "languageVersion": "3.3"
     },
     {
       "name": "string_scanner",
-      "rootUri": "file:///home/yasfdany/.pub-cache/hosted/pub.dev/string_scanner-1.2.0",
+      "rootUri": "file:///C:/Users/elriz/AppData/Local/Pub/Cache/hosted/pub.dev/string_scanner-1.4.1",
       "packageUri": "lib/",
-      "languageVersion": "2.18"
+      "languageVersion": "3.1"
     },
     {
       "name": "term_glyph",
-      "rootUri": "file:///home/yasfdany/.pub-cache/hosted/pub.dev/term_glyph-1.2.1",
+      "rootUri": "file:///C:/Users/elriz/AppData/Local/Pub/Cache/hosted/pub.dev/term_glyph-1.2.2",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "3.1"
     },
     {
       "name": "test_api",
-      "rootUri": "file:///home/yasfdany/.pub-cache/hosted/pub.dev/test_api-0.6.0",
+      "rootUri": "file:///C:/Users/elriz/AppData/Local/Pub/Cache/hosted/pub.dev/test_api-0.7.4",
       "packageUri": "lib/",
-      "languageVersion": "2.18"
+      "languageVersion": "3.5"
     },
     {
       "name": "typed_data",
-      "rootUri": "file:///home/yasfdany/.pub-cache/hosted/pub.dev/typed_data-1.3.2",
+      "rootUri": "file:///C:/Users/elriz/AppData/Local/Pub/Cache/hosted/pub.dev/typed_data-1.3.2",
       "packageUri": "lib/",
       "languageVersion": "2.17"
     },
     {
       "name": "vector_math",
-      "rootUri": "file:///home/yasfdany/.pub-cache/hosted/pub.dev/vector_math-2.1.4",
+      "rootUri": "file:///C:/Users/elriz/AppData/Local/Pub/Cache/hosted/pub.dev/vector_math-2.1.4",
       "packageUri": "lib/",
       "languageVersion": "2.14"
     },
     {
-      "name": "web",
-      "rootUri": "file:///home/yasfdany/.pub-cache/hosted/pub.dev/web-0.1.4-beta",
+      "name": "vm_service",
+      "rootUri": "file:///C:/Users/elriz/AppData/Local/Pub/Cache/hosted/pub.dev/vm_service-15.0.0",
       "packageUri": "lib/",
-      "languageVersion": "3.1"
+      "languageVersion": "3.3"
     },
     {
       "name": "xml",
-      "rootUri": "file:///home/yasfdany/.pub-cache/hosted/pub.dev/xml-6.3.0",
+      "rootUri": "file:///C:/Users/elriz/AppData/Local/Pub/Cache/hosted/pub.dev/xml-6.3.0",
       "packageUri": "lib/",
       "languageVersion": "2.19"
     },
@@ -284,7 +290,9 @@
       "languageVersion": "2.13"
     }
   ],
-  "generated": "2023-10-03T13:52:13.560691Z",
   "generator": "pub",
-  "generatorVersion": "3.1.0"
+  "generatorVersion": "3.8.1",
+  "flutterRoot": "file:///D:/Softwares/Developments/flutter",
+  "flutterVersion": "3.32.1",
+  "pubCache": "file:///C:/Users/elriz/AppData/Local/Pub/Cache"
 }
